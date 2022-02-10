@@ -1,4 +1,4 @@
 # Kattis-Solutions
 
-| Problem | Link |
+| Problem | Solution |
 | - | - |
